@@ -4,7 +4,7 @@ from PIL import ImageTk, Image
 import numpy as np
 
 window = Tk(screenName="Failure mode and Shear Strength Estimation of Non-Conforming RC Shear Walls")
-window.title("Failure mode and Shear Strength Estimation of Non-Conforming RC RC Shear Walls")
+window.title("Failure mode and Shear Strength Estimation of Non-Conforming RC Shear Walls")
 
 
 window.geometry("915x510")
